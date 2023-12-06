@@ -1,0 +1,18 @@
+{
+    "name": "anand/uuid-generator",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anand\\UuidGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anandgupta3544",
+            "email": "anandgupta3544@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
